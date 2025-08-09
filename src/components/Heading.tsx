@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import brandLogo from '../assets/brand_logo.png';
 import { FiMenu, FiX } from 'react-icons/fi';
 
 const Heading = () => {
